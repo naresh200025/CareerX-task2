@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<body>
+  <h1> The Brown Bear</h1>
+  <div> id= "introduction"</div>
+  <h2> Habitat</h2>
+  <div> id="habitat" </div>
+  <h3> Media</h3>
+  <div> id="media"</div>
+</body>
